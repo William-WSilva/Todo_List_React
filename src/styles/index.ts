@@ -9,8 +9,6 @@ const EstiloGlobal = createGlobalStyle`
   font-family: Roboto, sans-serif;
   list-style: none;
  }
-
-
 `
 export const Container = styled.div`
   display: grid;
